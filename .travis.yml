@@ -7,4 +7,4 @@ solution: BGG.sln
 
 script:
     - dotnet restore
-    - dotnet --verbose build -c Release
+    - dotnet --verbose build
